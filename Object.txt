@@ -1,0 +1,146 @@
+Object Oriented Programming (OOP)
+» Menyusun semua kode pogram dan struktur data sebagai objek
+» Objek adalah unit dasar dari program
+» Objek menyimpan data dan perilaku (Properti & Method)
+» Objek bisa saling berinteraksi
+
+Kelebihan OOP
+» Representasi Dunia Nyata
+» Enkapsulasi (Memungkinkan data yang kita buat itu aman dari sisi tidak bisa diakses oleh bagianlain dari program kita)
+» Abstraksi Data (kita akan mudah menyembunyikan kerumitan dari program kita)
+» Reusability (mengguna ulang bagian-bagian program yang telah dibuat)
+» Skalabilitas & Ekstensibilitas (akan memudahkan pengembang ketika programnya sudah besaer)
+» kemudahan pengelolaan
+» Kolaborasi
+» Digunakan Oleh Framework
+
+Basic OOP
+» Class & Object
+» Properti & Method
+» Constructor (Karakteristik Default)
+» Object type (tipe data object)
+» Inheritance (Pewarisan)
+» Visibility / Access Modifier (dimana OOP punya Karakteristik Enkapsulasi)
+» Setter & Getter
+» Static Method
+
+Advance
+» Abstract & Interface 
+» Interseptor (Magic Method)
+» Object Cloning (Menduplikasi object sehingga memiliki perilaku yang beda)
+» Callbacks & Closures 
+» Namespaces & Autoloading
+
+
+• Class
+» Blueprint / Tempalte untuk membuat Instance dari Object
+» Mendefinisikan Object
+» Menyimpan Data dan perilaku yang disebut dengan property dan Method
+
+• Object
+» Instance yang didefinisikan oleh Class
+» Banyak object dapat dibuat hanya dengan satu Class
+» Object dibuat dengan menggunakan keyword new
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+»
+
