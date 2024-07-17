@@ -41,13 +41,16 @@ Advance
 » Instance yang didefinisikan oleh Class
 » Banyak object dapat dibuat hanya dengan satu Class
 » Object dibuat dengan menggunakan keyword new
-»
-»
-»
-»
-»
-»
-»
+
+• Property
+» Merepresentasikan data / keadaan dari sebuah object
+» Variable yang ada di dalam object (member Variable)
+» Di depan ditambahkan dengan Visibility (public, protected, private)
+
+• Method
+» Merepresentasikan perilaku dari sebuah object
+» Function yang ada di dalam object
+» ditambahkan Visibility depannya (Default public)
 »
 »
 »
