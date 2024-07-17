@@ -51,9 +51,14 @@ Advance
 » Merepresentasikan perilaku dari sebuah object
 » Function yang ada di dalam object
 » ditambahkan Visibility depannya (Default public)
-»
-»
-»
+
+
+• Constructor
+» Method yang otomatis dijalankan ketika sebuah class di instansiasi atau kita buat objecnya
+
+
+• Object Type
+» 
 »
 »
 »
