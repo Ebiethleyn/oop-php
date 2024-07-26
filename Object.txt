@@ -58,9 +58,12 @@ Advance
 
 
 • Object Type
-» 
-»
-»
+
+
+• Inheritance
+»  Menciptakan Hierarki antar kelas (Parent & Child)
+» Chid Class Mewarisi semua Properti dan Method dari Parent-nya (yang visinle)
+» Child Class memperluas (extends) fungsionalitas dari parent-nya
 »
 »
 »
