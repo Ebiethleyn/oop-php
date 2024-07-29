@@ -64,21 +64,28 @@ Advance
 »  Menciptakan Hierarki antar kelas (Parent & Child)
 » Chid Class Mewarisi semua Properti dan Method dari Parent-nya (yang visinle)
 » Child Class memperluas (extends) fungsionalitas dari parent-nya
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
+
+
+• Overriding
+» dimana kita bisa membuat method di kelas child yang memiliki nama yang sama dengan kelas parent-nya
+» atau method yang kita buat menimpa method di parent class
+» melakukan fungsionalitas yang sama, tetapi dengan keadaan yang berbeda
+
+
+• Visibility (Access Modifier)
+» Konsep yang digunakan untuk mengatur akses dari Property dan method pada sebuah objek
+» ada 3 keyword visibility : public, protected, dan private
+» public: dapat digunakan dimana saja, bahkan di luar kelas
+» protected : hanya dapat digunakan di sebuah kelas berserta turunan-nya
+» private: hanya bisa digunakan di sebuah kelas tertentu saja
+» hanya memperlihatkan aspek dari class yang dibutuhkan oleh 'client'
+» menentukan kebutuhan yang jelas dari sebuah object
+» memberikan kendali pada kode kita untuk menghindari 'bug'
+
+
+• Setter & Getter (Accessor Method)
+» method untuk sen set dan get
+» untuk menghindari ketika membuat property dengan visibility public
 »
 »
 »
