@@ -86,12 +86,15 @@ Advance
 • Setter & Getter (Accessor Method)
 » method untuk sen set dan get
 » untuk menghindari ketika membuat property dengan visibility public
-»
-»
-»
-»
-»
-»
+
+
+• Static Keyword
+» untuk apa Static keyword ??
+» member yang terikat dengan class, bukan dengan object
+» Nilai static akan selalu tetap, meskipun object di-instansiasi berulang kali
+» Membuat kode kita menjadi seolah - olah procedural
+» Biasanya digunakan untuk membuat fungsi bantuan / helper
+» Digunakan di class-class utility pada Framework
 »
 »
 »
