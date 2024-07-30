@@ -95,35 +95,51 @@ Advance
 » Membuat kode kita menjadi seolah - olah procedural
 » Biasanya digunakan untuk membuat fungsi bantuan / helper
 » Digunakan di class-class utility pada Framework
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
-»
+
+
+• Constant (Konstanta)
+» Sebuah identifier untuk menyimpan Nilai
+» berbeda dengan Variable, nilai Constant tidak bisa dirubah
+» ada dua cara membuat Constant
+» 1. define()
+» 2. const
+
+
+• Abstract Class
+» Sebuah class yang tidak dapat di-instansiasi
+» kelas abstrak
+» Mendefinisikan Interface untuk kelas lain yang menjadi turunanya
+» berperan sebagai 'kerangka dasar' untuk kelas turunan-nya
+» Memiliki minimal 1 method abstrak
+» Digunakan dalam pewarisan / inheritance untuk 'memaksakan' implementasi method abstrak yang sama untuk semua kelas turunanya
+» Kenapa harus menggunakan class abstract??
+» 1. Merepresentasikan ide atau konsep dasar
+» 2. "Conposition over Inheritance" => Salah satu cara menerapkan Polimorphism
+» 3. Sentralisasi Logic
+» 4. mempermudah pengerjaan tim
+
+
+• Interface
+» Kelas Abstrak yang sama sekali tidak memiliki implementasi
+» murni merupakan template untuk kelas turunannya
+» tidak boleh memiliki property, hanya deklarasi method saja
+» semua method-nya harus didefinisikan dengan visibility public
+» boleh Mendeklarasikan __construct() di dalam interface
+» satu kelas boleh mengimplementasikan banya interface
+» dengan menggunakan type-hinting dapat melakukan 'Dependency Injection'
+» pada akhirnya akan mencapai Polymorphism
+
+
+
+• Autoloading 
+» memanggil class (file) tanpa harus menggunakan require
+
+
+• Namespace
+» Sebuah cara untuk mengelompokan program kedalam sebuah package tersendiri (Encapsulation)
+» ??
+» pada dasarnya php tidak mengijinkan untuk memiliki 2 class dengan nama yang sama
+» 
 »
 »
 »
